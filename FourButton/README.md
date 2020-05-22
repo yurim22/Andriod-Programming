@@ -2,6 +2,6 @@
 각 버튼은 그림과 같이 회색, 녹색, 빨강색, 노랑색으로 변경하시오. 
 </br>
 </br>
-</br>
-</br>
+<화면 예시>
 
+![image](https://user-images.githubusercontent.com/33304898/82684685-fac8b200-9c8d-11ea-83fc-580bf7d7ceb6.png)
