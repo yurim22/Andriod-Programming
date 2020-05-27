@@ -1,0 +1,2 @@
+rootProject.name='GridCalc'
+include ':app'
