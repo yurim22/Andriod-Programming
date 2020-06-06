@@ -1,0 +1,2 @@
+rootProject.name='GraphicDraw'
+include ':app'
